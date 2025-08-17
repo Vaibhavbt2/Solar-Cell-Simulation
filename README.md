@@ -8,6 +8,3 @@ The notebook demonstrates:
 - Dark current–voltage (J–V) characteristics
 - Optical generation profile and carrier collection probability
 - Illuminated J–V curve and solar cell performance
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/Vaibhavbt2/solar-cell-simulation/blob/main/solar_cell_notebook.ipynb)
